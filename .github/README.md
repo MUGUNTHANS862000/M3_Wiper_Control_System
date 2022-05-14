@@ -1,1 +1,2 @@
 [![cpp_check](https://github.com/MUGUNTHANS862000/M3_Wiper_Control_System/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/MUGUNTHANS862000/M3_Wiper_Control_System/actions/workflows/cpp%20check.yml)
+[![Build](https://github.com/MUGUNTHANS862000/M3_Wiper_Control_System/actions/workflows/build.yml/badge.svg)](https://github.com/MUGUNTHANS862000/M3_Wiper_Control_System/actions/workflows/build.yml)
